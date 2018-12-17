@@ -21,15 +21,28 @@ Compiling and Running Grooveshark:
 ```bash
   You can use the Makefile but because of the allegro graphics library, it was easier to make a project with the devc++ ide, therefore that was what the team decided to use.
   
-  If you just want to test the Grooveshark application, I suggest 
+  If you just want to test the application, I suggest to directly use the executable file.
+```
+
+HOW TO USE
+--------------------------------------------------
+
+```bash
+  There are 4 options:
+  * Cadastrar: Add bands by name, album and song. 
+  * Remover: Remove bands by name, album and song.
+  * Filtrar: Filter by gender, band decade, album decade.
+  * Buscar: Search by band name, album and song.
+  
+  Press ESC to exit the application.
 ```
 
 MORE INFO
 --------------------------------------------------
 
+You can find more information about the algorithms, task specification and the team in the files: `assignment report.pdf` and `task specification.pdf`
+
 * What was Grooveshark? <https://en.wikipedia.org/wiki/Grooveshark>
 * Allegro graphics library: <https://en.wikipedia.org/wiki/Allegro_(software)>
-
-You can find more information about the task specification, project and the team in the files: `assignment report.pdf` and `task specification.pdf`
 
 PS. This project is not related to the original Grooveshark in any way, it was only made with educational purposes.
