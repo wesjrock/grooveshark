@@ -40,7 +40,7 @@ HOW TO USE
 MORE INFO
 --------------------------------------------------
 
-You can find more information about the algorithms, task specification and the team in the files: `assignment report.pdf` and `project specification.pdf`
+You can find more information about it in the files: `assignment report.pdf` and `project specification.pdf`
 
 * What was Grooveshark? <https://en.wikipedia.org/wiki/Grooveshark>
 * Allegro graphics library: <https://en.wikipedia.org/wiki/Allegro_(software)>
