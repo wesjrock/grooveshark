@@ -5,7 +5,7 @@
 OVERVIEW
 --------------------------------------------------
 This is an implementation of a fictional grooveshark music project for the [Introduction to Computer Science II
-][ICC2] course. The purpose of this project was to develop an application to practice sorting and searching algorithms along with File Management in C language. This project had a team with a team leader and each member had a purpose. For the Graphical User Interface, it was used the Allegro graphics library. This project was compiled using the Windows operating system. It was made at the Computer Science course from University of São Paulo (ICMC - USP).
+][ICC2] course. The purpose of this project was to develop an application to practice sorting and searching algorithms along with File Management in C language. This project had a team with a team leader and each member had a purpose. For the Graphical User Interface, it was used the Allegro graphics library. This project was compiled using the Windows operating system. It was made at the Computer Science undergraduate program from University of São Paulo (ICMC - USP).
 
 BUILD AND INSTALL
 --------------------------------------------------
