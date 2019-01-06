@@ -37,6 +37,16 @@ HOW TO USE
   Press ESC to exit the application.
 ```
 
+CREDITS
+--------------------------------------------------
+- Aulos Plautius Martines Marino
+- Bruno Pinto Ferraz Fabbri
+- Frederico O. Sampaio
+- Lucas Gasparino
+- Rogiel dos Santos
+- Tiago Leite
+- Wesley Tiozzo
+
 MORE INFO
 --------------------------------------------------
 
